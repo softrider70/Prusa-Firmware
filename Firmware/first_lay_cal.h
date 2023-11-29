@@ -5,7 +5,7 @@
 #ifndef FIRMWARE_FIRST_LAY_CAL_H_
 #define FIRMWARE_FIRST_LAY_CAL_H_
 #include <stdint.h>
-
+ 
 void lay1cal_wait_preheat();
 [[nodiscard]] bool lay1cal_load_filament(uint8_t filament);
 void lay1cal_intro_line(bool skipExtraPurge, float layer_height, float extrusion_width);
