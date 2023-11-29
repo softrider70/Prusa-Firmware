@@ -8,6 +8,10 @@ The firmware for the Original Prusa i3 printers is proudly based on [Marlin 1.0.
 
 This repository contains _development material only!_
 
+# meine Anpassungen
+
+lediglich M28 Travelspeed und Starttemperaturen angepasst. Übertragen wird die englische Build für mk3s (ohne evo)
+
 
 # Build
 ## Linux
